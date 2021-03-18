@@ -5,10 +5,39 @@ header{
     margin-right: calc((100% - 860px) / 2);
     background-color: yellow;
 }
+
+header > img{
+    height: 50px;
+}
+
+main > img{
+    height: 250px;
+}
+
+nav{
+
+}
+
+a{
+
+}
+
 main{
     display: inline-block;
     background-color: orange;
     width: 860px;
     margin-left: calc((100% - 860px) / 2);
     margin-right: calc((100% - 860px) / 2);
+}
+
+div{
+
+}
+
+h1{
+
+}
+
+p{
+
 }
